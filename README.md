@@ -11,4 +11,3 @@ The target application used for this PoC is https://github.com/t0thkr1s/allsafe 
 In the PoC we have 2 main component :
 * EvilActivity : https://github.com/TmmmmmR/PoC_Intent-Redirect/blob/master/app/src/main/java/com/attacker/application/MainActivity.java#L31
 * AccessProviderActivity : https://github.com/TmmmmmR/PoC_Intent-Redirect/blob/master/app/src/main/java/com/attacker/application/AccessProviderActivity.java#L28
-* 
